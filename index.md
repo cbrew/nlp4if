@@ -1,10 +1,4 @@
 ## First Workshop on NLP for Internet Freedom
-
-
-**Organizers:**  Chris Brew, Anna Feldman, Chris Leberknight
- 
- 
-### Topic and Content
  
 According to the recent report produced by Freedom House (freedomhouse.org), an  “independent watchdog organization dedicated to the expansion of freedom and democracy around the world”, Internet freedom declined in 2016 for the sixth consecutive year. 67% of all Internet users live in countries where criticism of the government, military, or ruling family are subject to censorship.  Social media users face unprecedented penalties, as authorities in 38 countries made arrests based on social media posts over the past year. Globally, 27 percent of all internet users live in countries where people have been arrested for publishing, sharing, or merely “liking” content on Facebook. Governments are increasingly going after messaging apps like WhatsApp and Telegram, which can spread information quickly and securely.
 
