@@ -26,7 +26,7 @@ This workshop should bring together NLP researchers whose work contributes to th
 - Ethics in NLP;
 - “Walled gardens”, personalization and fragmentation of the online public space;
 
-We hope that our workshop will have a transformative impact on society by getting closer to achieving Internet freedom in countries where accessing and sharing of information are strictly controlled by censorship.
+We hope that our workshop will promote Internet freedom in countries where accessing and sharing of information are strictly controlled by censorship.
 
 
 
@@ -34,11 +34,9 @@ We hope that our workshop will have a transformative impact on society by gettin
  
 ### Organizers:
  
-- Chris Brew, Computational Research Scientist, Digital Operatives:   E-mail: chris.brew@digitaloperatives.com
-- Anna Feldman         Professor of Linguistics and Computer Science at Montclair State University. E-mail: feldmana@montclair.edu 
- 
- 
-*Chris Leberknight*       Associate Professor of Computer Science at Montclair State University. E-mail: leberknightc@montclair.edu 
+- Chris Brew, Computational Research Scientist, Digital Operatives: chris.brew@digitaloperatives.com
+- Anna Feldman,Professor of Linguistics and Computer Science at Montclair State University. feldmana@montclair.edu
+- Chris Leberknight,Associate Professor of Computer Science at Montclair State University. leberknightc@montclair.edu 
  
  
  
