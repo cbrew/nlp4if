@@ -22,6 +22,8 @@ This workshop should bring together NLP researchers whose work contributes to th
 
 We hope that our workshop will promote Internet freedom in countries where accessing and sharing of information are strictly controlled by censorship.
 
+Mailing list [https://groups.google.com/forum/#!forum/nlp4if]
+
 
 
  
