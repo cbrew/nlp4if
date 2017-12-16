@@ -25,6 +25,11 @@ We hope that our workshop will promote Internet freedom in countries where acces
 [Mailing list for the workshop](https://groups.google.com/forum/#!forum/nlp4if)
 
 
+- workshop submission deadline: May 25, 2018
+
+- notification: June 20, 2018
+
+- camera-ready submission deadline: June 30, 2018
  
  
 ### Organizers:
