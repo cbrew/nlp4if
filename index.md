@@ -32,6 +32,19 @@ We hope that our workshop will promote Internet freedom in countries where acces
 
 - camera-ready submission deadline: June 30, 2018
  
+## Submission Guidelines
+
+Submissions should be written in English and anonymized with regard to the authors and/or their institution (no author-identifying information on the title page nor anywhere in the paper), including referencing style as usual. Authors should also ensure that identifying meta-information is removed from files submitted for review.
+
+Submissions must use the Word or LaTeX template files provided by COLING 2018 and conform to the format defined by the COLING 2018 style guidelines.
+
+* Long paper submission: up to 8 pages of content, plus 2 pages for references; final versions of long papers: one additional page: up to 9 pages with unlimited pages for references
+* Short paper submission: up to 4 pages of content, plus 2 pages for references; final version of short papers: up to 5 pages with unlimited pages for references
+
+PDF files will be submitted electronically via the START submission system.
+
+Double submission policy: Parallel submission to other meetings or publications are possible but must be immediately notified to the workshop contact person. If accepted, withdrawals are only possible within two days after notification.
+
  
 ### Organizers:
  
