@@ -78,9 +78,7 @@ Double submission policy: Parallel submission to other meetings or publications 
 
 ### Venue: COLING 2018, Santa Fe, NM, USA, August 20 or 21
 
-### Guest Speaker
-
-#### Jennifer Pan (Standford University, CA)
+### Guest Speaker: Jennifer Pan (Standford University, CA)
 #### Title
 How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument
 #### Abstract
