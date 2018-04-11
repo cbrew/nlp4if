@@ -3,9 +3,9 @@
 A workshop dedicated to NLP methods that potentially contribute (either positively or negatively) to the free flow of information
 on the Internet, or to our understanding of the issues that arise in this area. 
  
- ### Venue: COLING 2018, Santa Fe, NM, USA, August 20 or 21
+### Venue: COLING 2018, Santa Fe, NM, USA, August 20 or 21
  
-<details open> 
+<details> 
  <summary>Motivation and topics</summary>
  
 According to the recent report produced by Freedom House (freedomhouse.org), an  “independent watchdog organization dedicated to the expansion of freedom and democracy around the world”, Internet freedom declined in 2016 for the sixth consecutive year. 67% of all Internet users live in countries where criticism of the government, military, or ruling family are subject to censorship.  Social media users face unprecedented penalties, as authorities in 38 countries made arrests based on social media posts over the past year. Globally, 27 percent of all internet users live in countries where people have been arrested for publishing, sharing, or merely “liking” content on Facebook. Governments are increasingly going after messaging apps like WhatsApp and Telegram, which can spread information quickly and securely.
