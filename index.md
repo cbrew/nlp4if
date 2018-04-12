@@ -14,7 +14,13 @@ Various barriers exist to prevent citizens of a large number of countries to acc
 
 Large internet providers are effective monopolies, and themselves have the power to use NLP techniques to control information flow. Users are suspended or banned, sometimes without human intervention, and with little opportunity for redress. Users react to this by using coded, oblique or metaphorical  language, by taking steps to conceal their identity such as the use of multiple accounts, raising questions about who the real originating author of a post actually is.
 
-This workshop should bring together NLP researchers whose work contributes to the free flow of information on the Internet.  The topics of interest include (but are not limited) to the following:
+This workshop should bring together NLP researchers whose work contributes to the free flow of information on the Internet.
+
+</details>
+
+## Topics
+
+  The topics of interest include (but are not limited) to the following:
 
 - Censorship detection: detecting deleted or edited text; detecting blocked keywords/banned terms;
 - Censorship circumvention techniques: linguistically inspired countermeasure for Internet censorship such as keyword substitution, expanding coverage of existing banned terms,  text paraphrasing, linguistic steganography, generating information morphs etc.;
@@ -29,7 +35,6 @@ This workshop should bring together NLP researchers whose work contributes to th
 - “Walled gardens”, personalization and fragmentation of the online public space;
 
 We hope that our workshop will promote Internet freedom in countries where accessing and sharing of information are strictly controlled by censorship.
-</details>
 
 <details>
  <summary>Mailing list</summary>
