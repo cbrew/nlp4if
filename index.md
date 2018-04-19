@@ -110,11 +110,11 @@ Double submission policy: Parallel submission to other meetings or publications 
 The Chinese government has long been suspected of hiring as many as 2 million people to surreptitiously insert huge numbers of pseudonymous and other deceptive writings into the stream of real social media posts, as if they were the genuine opinions of ordinary people. Many academics, and most journalists and activists, claim that these so-called 50c party posts vociferously argue for the government’s side in political and policy debates. As we show, this is also true of most posts openly accused on social media of being 50c. Yet almost no systematic empirical evidence exists for this claim or, more importantly, for the Chinese regime’s strategic objective in pursuing this activity. In the first large-scale empirical analysis of this operation, we show how to identify the secretive authors of these posts, the posts written by them, and their content. In contrast to prior claims, the Chinese regime’s strategy is to avoid arguing with skeptics of the party and the government, and to not even discuss controversial issues. The goal of this massive secretive operation is instead to distract the public and change the subject, as most of these posts involve cheerleading for China, the revolutionary history of the Communist Party, or other symbols of the regime. 
  </details>
  
-#### [Jennifer Pan (Stanford University, CA)](https://comm.stanford.edu/faculty-pan/)
+#### [Dr. Jedidiah Crandall (University of New Mexico)](https://www.cs.unm.edu/~crandall/)
  <details open>
  <summary> How to Talk Dirty and Influence Machines </summary>
  
-##### Bio
+Bio
 Prof. Jedidiah Crandall is an Associate Professor in the University of New
 Mexico Department of Computer Science.  The principle that drives his research
 is this: those who censor and surveil the Internet should only be able to do so
@@ -125,7 +125,7 @@ Crandall is part of the Net Alerts project, a collaborative effort to protect
 at-risk populations (such as journalists and activists) on the Internet by
 educating them about the unique threats they face.
 
-##### Abstract
+Abstract
 In the book, "How to Talk Dirty and Influence People," Lenny Bruce expounds on
 the idea that humans need to be able to communicate with words that draw on
 human experiences in order to communicate some ideas effectively.  This
@@ -140,7 +140,7 @@ communicate online, and my research group has proposed pointillism as an
 approach to apply topical analysis in this environment.  I'll also propose some
 even more challenging problems, like can we take hundreds of keyword blacklists
 containing hundreds of thousands of keywords---many of which return 0 hits on
-Google---and categorize them?  (The answer is maybe). 
+Google---and categorize them?  (The answer is maybe).
  </details>
  
-#### [Jennifer Pan (Stanford University, CA)](https://comm.stanford.edu/faculty-pan/)
+#### [Dr. Shaomei Wu (Facebook)](https://research.fb.com/people/wu-shaomei/)
