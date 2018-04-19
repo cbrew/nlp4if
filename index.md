@@ -114,7 +114,7 @@ The Chinese government has long been suspected of hiring as many as 2 million pe
  <details open>
  <summary> How to Talk Dirty and Influence Machines </summary>
  
-- Bio
+- Bio:
 Prof. Jedidiah Crandall is an Associate Professor in the University of New
 Mexico Department of Computer Science.  The principle that drives his research
 is this: those who censor and surveil the Internet should only be able to do so
@@ -125,7 +125,7 @@ Crandall is part of the Net Alerts project, a collaborative effort to protect
 at-risk populations (such as journalists and activists) on the Internet by
 educating them about the unique threats they face.
 
-- Abstract
+- Abstract:
 In the book, "How to Talk Dirty and Influence People," Lenny Bruce expounds on
 the idea that humans need to be able to communicate with words that draw on
 human experiences in order to communicate some ideas effectively.  This
