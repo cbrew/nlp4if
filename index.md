@@ -113,6 +113,7 @@ The Chinese government has long been suspected of hiring as many as 2 million pe
  ####  [Dr. Jedidiah Crandall (University of New Mexico)](https://www.cs.unm.edu/~crandall/)
  <details open>
  <summary> How to Talk Dirty and Influence Machines </summary>
+ 
 ##### Bio
 Prof. Jedidiah Crandall is an Associate Professor in the University of New
 Mexico Department of Computer Science.  The principle that drives his research
