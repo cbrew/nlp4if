@@ -125,7 +125,7 @@ Crandall is part of the Net Alerts project, a collaborative effort to protect
 at-risk populations (such as journalists and activists) on the Internet by
 educating them about the unique threats they face.
 
-- Abstract:
+- Abstract: May 25, 2018
 In the book, "How to Talk Dirty and Influence People," Lenny Bruce expounds on
 the idea that humans need to be able to communicate with words that draw on
 human experiences in order to communicate some ideas effectively.  This
