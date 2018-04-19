@@ -138,7 +138,6 @@ communicate online, and my research group has proposed pointillism as an
 approach to apply topical analysis in this environment.  I'll also propose some
 even more challenging problems, like can we take hundreds of keyword blacklists
 containing hundreds of thousands of keywords---many of which return 0 hits on
-Google---and categorize them?  (The answer is maybe). 
+Google---and categorize them?  (The answer is maybe).
 
- 
 #### [Dr. Shaomei Wu (Facebook)](https://research.fb.com/people/wu-shaomei/)
