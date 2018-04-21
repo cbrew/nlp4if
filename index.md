@@ -101,7 +101,7 @@ Double submission policy: Parallel submission to other meetings or publications 
 
 ### Guest Speakers
 
-#### [Jennifer Pan (Stanford University, CA)](https://comm.stanford.edu/faculty-pan/)
+#### [Dr. Jennifer Pan (Stanford University, CA)](https://comm.stanford.edu/faculty-pan/)
 <details open>
 <summary> How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument </summary>
  
