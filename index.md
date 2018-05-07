@@ -122,8 +122,9 @@ In the book, "How to Talk Dirty and Influence People," Lenny Bruce expounds on t
 
 #### [Dr. Shaomei Wu (Facebook)](https://research.fb.com/people/wu-shaomei/)
 
+#### [Nancy Watzman (Dot Connector Studio)](https://blog.archive.org/author/nancyw/)
 <details open>
-#### [Nancy Watzman] 
+
  
  Director of strategic initiatives at Dot Connector Studio; managing editor, television section, Internet News Archive; Editor on Medium for Knight Commission on Trust, Media and Democracy
  </details>
