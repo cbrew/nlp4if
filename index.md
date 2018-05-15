@@ -3,7 +3,7 @@
 A workshop dedicated to NLP methods that potentially contribute (either positively or negatively) to the free flow of information
 on the Internet, or to our understanding of the issues that arise in this area. 
  
-### Venue: COLING 2018, Santa Fe, NM, USA, August 20 or 21
+### Venue: COLING 2018, Santa Fe, NM, USA, August 25
  
 <details> 
  <summary>Motivation</summary>
