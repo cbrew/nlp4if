@@ -41,7 +41,7 @@ We hope that our workshop will promote Internet freedom in countries where acces
 [Mailing list for the workshop](https://groups.google.com/forum/#!forum/nlp4if)
 </details>
 
-<details>
+<details open>
 <summary>Important dates</summary>
 
 - workshop submission deadline: May 25, 2018
@@ -53,7 +53,7 @@ We hope that our workshop will promote Internet freedom in countries where acces
 - workshop dates: August 20-21, 2018
 </details>
  
- <details>
+ <details open>
  <summary>Submission Guidelines</summary>
 Submissions should be written in English and anonymized with regard to the authors and/or their institution (no author-identifying information on the title page nor anywhere in the paper), including referencing style as usual. Authors should also ensure that identifying meta-information is removed from files submitted for review.
 
