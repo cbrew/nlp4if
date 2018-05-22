@@ -63,7 +63,7 @@ Submissions must use the Word or LaTeX template files provided by COLING 2018 an
 * Short paper submission: up to 4 pages of content, plus 2 pages for references; final version of short papers: up to 5 pages with unlimited pages for references
 
 PDF files must be submitted electronically via the [START submission system](https://www.softconf.com/coling2018/ws-NLP4IF/).
-The recommended style files are available at: [http://coling2018.org/wp-content/uploads/2018/01/coling2018.zip(http://coling2018.org/wp-content/uploads/2018/01/coling2018.zip).
+The recommended style files are [available from the COLING repository](http://coling2018.org/wp-content/uploads/2018/01/coling2018.zip).
 
 Double submission policy: Parallel submission to other meetings or publications are possible but must be immediately notified to the workshop contact person. If accepted, withdrawals are only possible within two days after notification.
 
