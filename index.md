@@ -3,7 +3,7 @@
 A workshop dedicated to NLP methods that potentially contribute (either positively or negatively) to the free flow of information
 on the Internet, or to our understanding of the issues that arise in this area. 
  
-### Venue: COLING 2018, Santa Fe, NM, USA, August 25
+### Venue: COLING 2018, Santa Fe, NM, USA, August 20
  
 <details> 
  <summary>Motivation</summary>
@@ -50,7 +50,7 @@ We hope that our workshop will promote Internet freedom in countries where acces
 
 - camera-ready submission deadline: June 30, 2018
 
-- workshop dates: August 20-21, 2018
+- workshop date: August 20, 2018
 </details>
  
 
@@ -66,7 +66,7 @@ PDF files must be submitted electronically via the [START submission system](htt
 The recommended style files are [available from the COLING repository](http://coling2018.org/wp-content/uploads/2018/01/coling2018.zip).
 
 Double submission policy: Parallel submission to other meetings or publications are possible but must be immediately notified to the workshop contact person. If accepted, withdrawals are only possible within two days after notification.
-
+ 
 
 <details>
  <summary>Organizers and Program Committee</summary>
@@ -119,8 +119,6 @@ Prof. Jedidiah Crandall is an Associate Professor in the University of New Mexic
 In the book, "How to Talk Dirty and Influence People," Lenny Bruce expounds on the idea that humans need to be able to communicate with words that draw on human experiences in order to communicate some ideas effectively. This suggests a lot of euphemism, vernacular, and, yes, dirty words. In this talk I'll give an NLP research outsider's perspective on the problem of understanding what humans are saying online algorithmically. I'll use real examples of posts and keywords that trigger censorship or surveillance in China to illustrate challenging problems in this space. For example, how can we do topical analysis on language that is deliberately obfuscated? China's netizens have affectionately coined the term "Martian Language" to refer to how they communicate online, and my research group has proposed pointillism as an approach to apply topical analysis in this environment. I'll also propose some even more challenging problems, like can we take hundreds of keyword blacklists containing hundreds of thousands of keywords---many of which return 0 hits on Google---and categorize them? (The answer is maybe).
 
 </details>
-
-#### [Dr. Shaomei Wu (Facebook)](https://research.fb.com/people/wu-shaomei/)
 
 #### [Nancy Watzman (Dot Connector Studio)](https://blog.archive.org/author/nancyw/)
 <details open>
