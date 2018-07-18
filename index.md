@@ -99,6 +99,28 @@ Double submission policy: Parallel submission to other meetings or publications 
 </details>
 
 ### Workshop Program
+
+09:00–10:00 Invited talk: Jennifer Pan (Stanford University): How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument
+
+10:00–10:30 The effect of information controls on developers in China: An analysis of censorship in Chinese open source projects (Jeffrey Knockel, Masashi Crete-Nishihata and Lotus Ruan)
+
+10:30–11:00 Coffee Break
+
+11:00–12:00 Invited talk: Jed Crandall (University of New Mexico): How to Talk Dirty and Influence Machines
+
+12:00–12:30 Linguistic Characteristics of Censorable Language on SinaWeibo (Kei Yin Ng, Anna Feldman, Jing Peng and Chris Leberknight)
+
+12:30–02:00 Lunch
+
+02:00–03:00 Invited Talk: Nancy Watzman (Dot Connector Studio): What do journalists really want from NLP researchers? How to help build trust in media and democracy by helping journalists make sense of big data
+
+03:00–03:30 Creative Language Encoding under Censorship (Heng Ji and Kevin Knight)
+
+03:30–04:00 Coffee Break
+
+04:00–05:00 Panel: NLP and Disinformation (Moderator: Chris Brew; Panelists: Jed Crandall, Heng Ji,  Veronica Perez-Rosas, Nancy Watzman)
+
+
 Time | Event
 ------------ | -------------
 09:00–10:00 | Invited talk: Jennifer Pan (Stanford University): How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument
@@ -135,6 +157,8 @@ In the book, "How to Talk Dirty and Influence People," Lenny Bruce expounds on t
 
 #### [Nancy Watzman (Dot Connector Studio)](https://blog.archive.org/author/nancyw/)
 <details open>
- <summary>What do journalists really want from NLP researchers? How to help build trust in media and democracy by helping journalists make sense of big data</summary>
+<summary> What do journalists really want from NLP researchers? How to help build trust in media and democracy by helping journalists make sense of big data </summary>
+
 Trust in democracy generally and media particularly is at or close to all-time lows, according to established surveys. A combination of factors, including the rise of social media platforms and the decimation of traditional news profit-making models have contributed to the current state of affairs. The spread of mis- and dis-information is rampant, with various types of actors exploiting vulnerabilities in the new ways that people are communicating. The good news is that journalists are becoming increasingly sophisticated in the questions they are asking of big data to help in investigative, fact-checking, and other projects. A number of innovative experiments, many sponsored by philanthropy, are underway. At the same time, with layoffs continuing to ripple through newsrooms, varying technical skills, and thorny problems to solve, there’s much to be done. This talk will give a general overview of several ongoing projects and describe areas where journalists need help. Nancy Watzman is an award-winning investigative journalist, researcher, and strategist with a focus on launching data-rich journalism projects on emerging platforms. She has more than two decades of experience doing research, writing, strategy, communications, and policy analysis. Her reporting and commentary has appeared in many leading publications, including Harper’s Magazine, The Nation, The New Republic, USA Today, The Washington Monthly, and she has appeared on NPR, Fox News, and C-SPAN, and other networks. She’s also worked with watchdog and other public interest groups, including the Internet Archive, Sunlight Foundation, Common Cause, Center for Public Integrity, Center for Responsive Politics, Public Campaign (now Every Voice), and Public Citizen. In 2016 she managed the launch of the Political TV Ad Archive, a collection of 2016 political ads with underlying, downloadable data on airings in key TV markets. She is co-author, with Micah Sifry, of Is That a Politician in Your Pocket? Washington on $2 Million  a Day (John Wiley & Sons, 2004), and contributed to The Buying of the Congress, Center for Public Integrity (Avon Books, 1998). She was the recipient of the Century Fund grant and served as fellow for the Center for Independent Media. She is a graduate of Swarthmore College, majoring in History and English Literature.
- </details>
+
+</details>
