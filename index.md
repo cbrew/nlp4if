@@ -18,6 +18,9 @@ This workshop should bring together NLP researchers whose work contributes to th
 
 </details>
 
+##### The workshop is supported by the U.S. National Science Foundation, award No. #1828199 
+##### Students can apply for travel grants. For more information, please, contact Anna Feldman (feldmana@montclair.edu)
+
 ## Topics
 
   The topics of interest include (but are not limited) to the following:
