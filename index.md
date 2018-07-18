@@ -42,17 +42,17 @@ We hope that our workshop will promote Internet freedom in countries where acces
 </details>
 
 <details open>
-<summary>Important dates</summary>
- <p>
-  * workshop submission deadline: May 25, 2018
-  * notification: June 20, 2018
-  * camera-ready submission deadline: June 30, 2018
-  * workshop date: August 20, 2018
- </p>
-</details>
+<summary>Important dates</summary><p>
+ 
+* workshop submission deadline: May 25, 2018
+* notification: June 20, 2018
+* camera-ready submission deadline: June 30, 2018
+* workshop date: August 20, 2018
+
+ </p></details>
  
 <details>
- <summary>Submission Guidelines</summary>
+<summary>Submission Guidelines</summary>
 Submissions should be written in English and anonymized with regard to the authors and/or their institution (no author-identifying information on the title page nor anywhere in the paper), including referencing style as usual. Authors should also ensure that identifying meta-information is removed from files submitted for review.
 
 Submissions must use the Word or LaTeX template files provided by COLING 2018 and conform to the format defined by the COLING 2018 style guidelines.
@@ -70,9 +70,9 @@ Double submission policy: Parallel submission to other meetings or publications 
  <summary>Organizers and Program Committee</summary>
 ### Organizers:
  
-- Chris Brew, Computational Research Scientist, Digital Operatives: chris.brew@digitaloperatives.com
-- Anna Feldman,Professor of Linguistics and Computer Science at Montclair State University. feldmana@montclair.edu
-- Chris Leberknight,Associate Professor of Computer Science at Montclair State University. leberknightc@montclair.edu 
+* Chris Brew, Computational Research Scientist, Digital Operatives: chris.brew@digitaloperatives.com
+* Anna Feldman,Professor of Linguistics and Computer Science at Montclair State University. feldmana@montclair.edu
+* Chris Leberknight,Associate Professor of Computer Science at Montclair State University. leberknightc@montclair.edu 
  
  
  
