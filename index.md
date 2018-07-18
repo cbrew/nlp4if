@@ -18,8 +18,8 @@ This workshop should bring together NLP researchers whose work contributes to th
 
 </details>
 
-##### The workshop is supported by the U.S. National Science Foundation, award No. #1828199 
-##### Students can apply for travel grants. For more information, please, contact Anna Feldman (feldmana@montclair.edu)
+###### The workshop is supported by the U.S. National Science Foundation, award No. #1828199 
+###### Students can apply for travel grants. For more information, please, contact Anna Feldman (feldmana@montclair.edu)
 
 ## Topics
 
@@ -45,14 +45,17 @@ We hope that our workshop will promote Internet freedom in countries where acces
 </details>
 
 <details open>
-<summary>Important dates</summary><p>
- 
-* workshop submission deadline: May 25, 2018
-* notification: June 20, 2018
-* camera-ready submission deadline: June 30, 2018
-* workshop date: August 20, 2018
+<summary>Important dates</summary>
 
- </p></details>
+workshop submission deadline: May 25, 2018
+ 
+notification: June 20, 2018
+
+camera-ready submission deadline: June 30, 2018
+
+workshop date: August 20, 2018
+
+</details>
  
 <details>
 <summary>Submission Guidelines</summary>
