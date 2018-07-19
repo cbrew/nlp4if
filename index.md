@@ -56,6 +56,11 @@ camera-ready submission deadline: June 30, 2018
 workshop date: August 20, 2018
 
 </details>
+
+<details>
+ <summary>Registration</summary>
+ To register, please go to http://coling2018.org/registration/
+</details>
  
 <details>
 <summary>Submission Guidelines</summary>
