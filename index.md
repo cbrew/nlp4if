@@ -141,7 +141,7 @@ Prof. Jedidiah Crandall is an Associate Professor in the University of New Mexic
 
 <p>
 In the book, "How to Talk Dirty and Influence People," Lenny Bruce expounds on the idea that humans need to be able to communicate with words that draw on human experiences in order to communicate some ideas effectively. This suggests a lot of euphemism, vernacular, and, yes, dirty words. In this talk I'll give an NLP research outsider's perspective on the problem of understanding what humans are saying online algorithmically. I'll use real examples of posts and keywords that trigger censorship or surveillance in China to illustrate challenging problems in this space. For example, how can we do topical analysis on language that is deliberately obfuscated? China's netizens have affectionately coined the term "Martian Language" to refer to how they communicate online, and my research group has proposed pointillism as an approach to apply topical analysis in this environment. I'll also propose some even more challenging problems, like can we take hundreds of keyword blacklists containing hundreds of thousands of keywords---many of which return 0 hits on Google---and categorize them? (The answer is maybe).
-
+</p>
 </details>
 
 #### [Nancy Watzman (Dot Connector Studio)](https://blog.archive.org/author/nancyw/)
@@ -153,5 +153,6 @@ Trust in democracy generally and media particularly is at or close to all-time l
 
 <p>
 Nancy Watzman is an award-winning investigative journalist, researcher, and strategist with a focus on launching data-rich journalism projects on emerging platforms. She has more than two decades of experience doing research, writing, strategy, communications, and policy analysis. Her reporting and commentary has appeared in many leading publications, including Harper’s Magazine, The Nation, The New Republic, USA Today, The Washington Monthly, and she has appeared on NPR, Fox News, and C-SPAN, and other networks. She’s also worked with watchdog and other public interest groups, including the Internet Archive, Sunlight Foundation, Common Cause, Center for Public Integrity, Center for Responsive Politics, Public Campaign (now Every Voice), and Public Citizen. In 2016 she managed the launch of the Political TV Ad Archive, a collection of 2016 political ads with underlying, downloadable data on airings in key TV markets. She is co-author, with Micah Sifry, of Is That a Politician in Your Pocket? Washington on $2 Million  a Day (John Wiley & Sons, 2004), and contributed to The Buying of the Congress, Center for Public Integrity (Avon Books, 1998). She was the recipient of the Century Fund grant and served as fellow for the Center for Independent Media. She is a graduate of Swarthmore College, majoring in History and English Literature.
+</p>
 
 </details>
