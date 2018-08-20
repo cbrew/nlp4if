@@ -3,11 +3,10 @@
 A workshop dedicated to NLP methods that potentially contribute (either positively or negatively) to the free flow of information
 on the Internet, or to our understanding of the issues that arise in this area. 
 
-<details> 
- <summary>NLP4IF Proceedings </summary>
-[http://github.com/cbrew/nlp4if/edit/master/NLP4IF_book.pdf](http://github.com/cbrew/nlp4if/edit/master/NLP4IF_book.pdf)
 
-</details>
+[NLP4IF Proceedings](http://github.com/cbrew/nlp4if/edit/master/NLP4IF_book.pdf)
+
+
 ### Venue: COLING 2018, Santa Fe, NM, USA, August 20
  
 <details> 
