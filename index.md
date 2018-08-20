@@ -4,7 +4,7 @@ A workshop dedicated to NLP methods that potentially contribute (either positive
 on the Internet, or to our understanding of the issues that arise in this area. 
 
 
-[NLP4IF Proceedings](http://github.com/cbrew/nlp4if/edit/master/NLP4IF_book.pdf)
+[NLP4IF Proceedings](http://github.com/cbrew/nlp4if/blob/master/NLP4IF_book.pdf)
 
 
 ### Venue: COLING 2018, Santa Fe, NM, USA, August 20
