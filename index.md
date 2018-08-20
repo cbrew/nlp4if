@@ -5,7 +5,7 @@ on the Internet, or to our understanding of the issues that arise in this area.
 
 <details> 
  <summary>NLP4IF Proceedings </summary>
-[http://github.com/cbrew/nlp4if/edit/master/NLP4IF_book.pdf]
+[http://github.com/cbrew/nlp4if/edit/master/NLP4IF_book.pdf](http://github.com/cbrew/nlp4if/edit/master/NLP4IF_book.pdf)
 
 </details>
 ### Venue: COLING 2018, Santa Fe, NM, USA, August 20
