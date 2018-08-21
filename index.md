@@ -115,14 +115,14 @@ Double submission policy: Parallel submission to other meetings or publications 
 
 Time | Event
 ------------ | -------------
-09:00–10:00 | Invited talk: Jennifer Pan (Stanford University): How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument
-10:00–10:30 | The effect of information controls on developers in China: An analysis of censorship in Chinese open source projects (Jeffrey Knockel, Masashi Crete-Nishihata and Lotus Ruan)
+09:00–10:00 | Invited talk: Jennifer Pan (Stanford University): How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument [slides](http://github.com/cbrew/nlp4if/blob/master/pan.pdf)
+10:00–10:30 | The effect of information controls on developers in China: An analysis of censorship in Chinese open source projects (Jeffrey Knockel, Masashi Crete-Nishihata and Lotus Ruan) [slides](http://github.com/cbrew/nlp4if/blob/master/knockel.pdf)
 10:30–11:00 | Coffee Break
-11:00–12:00 | Invited talk: Jed Crandall (University of New Mexico): How to Talk Dirty and Influence Machines
-12:00–12:30 | Linguistic Characteristics of Censorable Language on SinaWeibo (Kei Yin Ng, Anna Feldman, Jing Peng and Chris Leberknight)
+11:00–12:00 | Invited talk: Jed Crandall (University of New Mexico): How to Talk Dirty and Influence Machines [slides](http://github.com/cbrew/nlp4if/blob/master/crandall.pdf)
+12:00–12:30 | Linguistic Characteristics of Censorable Language on SinaWeibo (Kei Yin Ng, Anna Feldman, Jing Peng and Chris Leberknight) [slides](http://github.com/cbrew/nlp4if/blob/master/feldman.pptx)
 12:30–02:00 | Lunch
-02:00–03:00 | Invited Talk: Nancy Watzman (Dot Connector Studio): What do journalists really want from NLP researchers? How to help build trust in media and democracy by helping journalists make sense of big data
-03:00–03:30 | Creative Language Encoding under Censorship (Heng Ji and Kevin Knight)
+02:00–03:00 | Invited Talk: Nancy Watzman (Dot Connector Studio): What do journalists really want from NLP researchers? How to help build trust in media and democracy by helping journalists make sense of big data [slides](http://github.com/cbrew/nlp4if/blob/master/watzman.pptx)
+03:00–03:30 | Creative Language Encoding under Censorship (Heng Ji and Kevin Knight) [slides](http://github.com/cbrew/nlp4if/blob/master/hengji.pptx)
 03:30–04:00 | Coffee Break
 04:00–05:00 | Panel: NLP and Disinformation (Moderator: Chris Brew; Panelists: Jed Crandall, Heng Ji,  Veronica Perez-Rosas, Nancy Watzman)
 
